@@ -1,0 +1,23 @@
+.App {
+  /* text-align: center; */
+  background-color:silver;
+  min-height: 100vh;
+}
+
+.container{
+  margin-top: 15px;
+}
+
+.leftFeild{
+  text-align: right;
+  margin-bottom: 25px;
+}
+
+.card{
+  margin: 20px;
+}
+
+.center{
+  text-align: center;
+}
+
